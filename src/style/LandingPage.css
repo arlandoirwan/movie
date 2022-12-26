@@ -1,0 +1,63 @@
+.myBG {
+  height: 100vh;
+
+  background: url('../assets/images/banner/main.jpg');
+  background-size: cover;
+}
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 3px 3px black;
+  letter-spacing: 4px;
+}
+.trending {
+  height: auto;
+
+  background: url('../assets/images/banner/main2.png');
+  background-size: cover;
+}
+.super {
+  height: auto;
+
+  background: url('../assets/images/banner/main2.png');
+  background-size: cover;
+}
+
+.movieImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  width: 300px;
+}
+.Imange {
+  height: 200px;
+}
+.penjelasan {
+  text-rendering: auto;
+  font-size: 12px;
+  height: 180px;
+}
+.Movie-search {
+  height: 48px;
+  font-size: 24px;
+  margin-bottom: 32px;
+  padding: 16px;
+  font-weight: bold;
+  width: 300px;
+}
+.footer {
+  height: 50vh;
+  background-color: #430000;
+  color: white;
+}
+.foot {
+  margin: 5px;
+  padding: 15px;
+}
